@@ -13,7 +13,7 @@ st.header("Hi, this is our book of quizzes on algorithms and artificial intellig
 st.header("Title")
 st.subheader("But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness")
 
-user_input = st.text_input("Enter your student email address", 'studentid@kaplanstuden.edu.au')
+# user_input = st.text_input("Enter your student email address", 'studentid@kaplanstuden.edu.au')
 
 # definitions learning outcomes
 st.header("Find the correct definition for each of the questions")
